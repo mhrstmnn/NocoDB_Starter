@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
-    "upgrade": "npm uninstall --save nocodb && npm install --save nocodb"
+    "upgrade": "yarn remove nocodb && yarn add nocodb"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
