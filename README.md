@@ -15,7 +15,7 @@ yarn start
 ## Upgrade NocoDB
 
 ```shell
-yarn upgrade
+yarn run upgrade
 ```
 
 ## Using environment file
